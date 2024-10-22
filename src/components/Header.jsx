@@ -10,10 +10,18 @@ const Header = () => {
 
         {/* Navigations */}
         <ul className="flex items-center gap-8 sm:gap-12 text-gray-700">
-          <li>Home</li>
-          <li>Recipes</li>
-          <li>About</li>
-          <li>Search</li>
+          <li>
+            <a href="">Home</a>
+          </li>
+          <li>
+            <a href="">Recipes</a>
+          </li>
+          <li>
+            <a href="">About</a>
+          </li>
+          <li>
+            <a href="">Search</a>
+          </li>
         </ul>
       </div>
 

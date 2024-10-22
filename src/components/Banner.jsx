@@ -23,8 +23,12 @@ const Banner = () => {
               exceptionally well world-class Programmer.
             </p>
             <div className="space-x-6">
-              <button className="btn rounded-[50px] bg-[#0BE58A] border-none">Explore Now</button>
-              <button className="btn rounded-[50px] btn-defualt bg-transparent text-white">Our Feedback</button>
+              <button className="btn rounded-[50px] bg-[#0BE58A] border-none">
+                Explore Now
+              </button>
+              <button className="btn rounded-[50px] btn-defualt bg-transparent text-white hover:text-black">
+                Our Feedback
+              </button>
             </div>
           </div>
         </div>
