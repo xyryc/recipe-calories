@@ -1,6 +1,6 @@
 [
   {
-    "recipe_image": "https://example.com/images/chicken_stir_fry.jpg",
+    "recipe_image": "https://i.ibb.co.com/RDFCg9N/veg-curry.png",
     "recipe_id": "001",
     "recipe_name": "Chicken Stir Fry",
     "short_description": "A quick and flavorful chicken stir fry with vegetables.",
@@ -16,7 +16,7 @@
     "calories": "320 calories"
   },
   {
-    "recipe_image": "https://example.com/images/vegetable_curry.jpg",
+    "recipe_image": "https://i.ibb.co.com/6wmnprp/stir-fry-chicken-sweet-peppers-green-beans.jpg",
     "recipe_id": "002",
     "recipe_name": "Vegetable Curry",
     "short_description": "A hearty and aromatic vegetable curry.",
@@ -32,7 +32,7 @@
     "calories": "250 calories"
   },
   {
-    "recipe_image": "https://example.com/images/spaghetti_bolognese.jpg",
+    "recipe_image": "https://i.ibb.co.com/z69rkYC/spaghetti-with-bolognese-sauce-wooden-tablexa.jpg",
     "recipe_id": "003",
     "recipe_name": "Spaghetti Bolognese",
     "short_description": "Classic spaghetti with a rich meat sauce.",
@@ -48,7 +48,7 @@
     "calories": "600 calories"
   },
   {
-    "recipe_image": "https://example.com/images/greek_salad.jpg",
+    "recipe_image": "https://i.ibb.co.com/DQsYCFr/greek-salad.jpg",
     "recipe_id": "004",
     "recipe_name": "Greek Salad",
     "short_description": "A fresh and healthy Greek salad with feta cheese.",
@@ -64,7 +64,7 @@
     "calories": "180 calories"
   },
   {
-    "recipe_image": "https://example.com/images/chocolate_cake.jpg",
+    "recipe_image": "https://i.ibb.co.com/zhLq9G7/chocolate-dessert-with-fresh-raspberry-mint-leaf-generated-by-artificial-intellingence.jpg",
     "recipe_id": "005",
     "recipe_name": "Chocolate Cake",
     "short_description": "A rich and moist chocolate cake for dessert.",
@@ -80,7 +80,7 @@
     "calories": "450 calories"
   },
   {
-    "recipe_image": "https://example.com/images/banana_bread.jpg",
+    "recipe_image": "https://i.ibb.co.com/3dpnLDZ/banana-bread.jpg",
     "recipe_id": "006",
     "recipe_name": "Banana Bread",
     "short_description": "A delicious banana bread that's perfect for breakfast.",
