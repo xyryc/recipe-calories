@@ -1,15 +1,15 @@
 const Header = () => {
   return (
-    <div className="font-lexend 2xl:my-12 my-5 flex items-center justify-between">
+    <div className="font-lexend 2xl:my-12 my-5 flex flex-col lg:flex-row items-center justify-between">
       {/* Menu start */}
-      <div className="flex items-center gap-44">
+      <div className="flex flex-col lg:flex-row items-center lg:gap-16 2xl:gap-44">
         {/* title */}
         <h1 className="text-[32px] font-bold text-[#150B2B]">
           Recipe Calories
         </h1>
 
         {/* Navigations */}
-        <ul className="flex items-center gap-12 text-gray-700">
+        <ul className="flex items-center gap-8 sm:gap-12 text-gray-700">
           <li>Home</li>
           <li>Recipes</li>
           <li>About</li>
