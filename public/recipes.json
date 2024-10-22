@@ -1,8 +1,8 @@
 [
   {
-    "recipe_image": "https://i.ibb.co.com/MRfPSyx/veg-curry.jpg",
-    "recipe_id": "001",
+    "recipe_id": 1,
     "recipe_name": "Chicken Stir Fry",
+    "recipe_image": "https://i.ibb.co.com/MRfPSyx/veg-curry.jpg",
     "short_description": "A quick and flavorful chicken stir fry with vegetables.",
     "ingredients": [
       "550 g chicken",
@@ -11,13 +11,13 @@
       "1 bell pepper",
       "2 cloves garlic"
     ],
-    "preparing_time": "30",
-    "calories": "320 calories"
+    "preparing_time": 30,
+    "calories": 320
   },
   {
-    "recipe_image": "https://i.ibb.co.com/6wmnprp/stir-fry-chicken-sweet-peppers-green-beans.jpg",
-    "recipe_id": "002",
+    "recipe_id": 2,
     "recipe_name": "Vegetable Curry",
+    "recipe_image": "https://i.ibb.co.com/6wmnprp/stir-fry-chicken-sweet-peppers-green-beans.jpg",
     "short_description": "A hearty and aromatic vegetable curry.",
     "ingredients": [
       "300 g mixed vegetables",
@@ -27,13 +27,13 @@
       "2 cloves garlic",
       "1 tbsp ginger"
     ],
-    "preparing_time": "40",
-    "calories": "250 calories"
+    "preparing_time": 40,
+    "calories": 250
   },
   {
-    "recipe_image": "https://i.ibb.co.com/z69rkYC/spaghetti-with-bolognese-sauce-wooden-tablexa.jpg",
-    "recipe_id": "003",
+    "recipe_id": 3,
     "recipe_name": "Spaghetti Bolognese",
+    "recipe_image": "https://i.ibb.co.com/z69rkYC/spaghetti-with-bolognese-sauce-wooden-tablexa.jpg",
     "short_description": "Classic spaghetti with a rich meat sauce.",
     "ingredients": [
       "400 g spaghetti",
@@ -43,13 +43,13 @@
       "2 cloves garlic",
       "50 g parmesan cheese"
     ],
-    "preparing_time": "50",
-    "calories": "600 calories"
+    "preparing_time": 50,
+    "calories": 600
   },
   {
-    "recipe_image": "https://i.ibb.co.com/DQsYCFr/greek-salad.jpg",
-    "recipe_id": "004",
+    "recipe_id": 4,
     "recipe_name": "Greek Salad",
+    "recipe_image": "https://i.ibb.co.com/DQsYCFr/greek-salad.jpg",
     "short_description": "A fresh and healthy Greek salad with feta cheese.",
     "ingredients": [
       "200 g cucumber",
@@ -59,13 +59,13 @@
       "100 g olives",
       "2 tbsp olive oil"
     ],
-    "preparing_time": "15",
-    "calories": "180 calories"
+    "preparing_time": 15,
+    "calories": 180
   },
   {
-    "recipe_image": "https://i.ibb.co.com/zhLq9G7/chocolate-dessert-with-fresh-raspberryt-leaf-generated-by-artificial-intellingence.jpg",
-    "recipe_id": "005",
+    "recipe_id": 5,
     "recipe_name": "Chocolate Cake",
+    "recipe_image": "https://i.ibb.co.com/zhLq9G7/chocolate-dessert-with-fresh-raspbery-leaf-generated-by-artificial-intellingence.jpg",
     "short_description": "A rich and moist chocolate cake for dessert.",
     "ingredients": [
       "200 g flour & sugar",
@@ -74,13 +74,13 @@
       "100 g butter",
       "200 ml milk"
     ],
-    "preparing_time": "60",
-    "calories": "450 calories"
+    "preparing_time": 60,
+    "calories": 450
   },
   {
-    "recipe_image": "https://i.ibb.co.com/3dpnLDZ/banana-bread.jpg",
-    "recipe_id": "006",
+    "recipe_id": 6,
     "recipe_name": "Banana Bread",
+    "recipe_image": "https://i.ibb.co.com/3dpnLDZ/banana-bread.jpg",
     "short_description": "A delicious banana bread that's perfect for breakfast.",
     "ingredients": [
       "300 g ripe bananas",
@@ -90,7 +90,7 @@
       "50 g butter",
       "1 tsp baking soda"
     ],
-    "preparing_time": "50",
-    "calories": "350 calories"
+    "preparing_time": 50,
+    "calories": 350
   }
 ]

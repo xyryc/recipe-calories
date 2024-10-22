@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 
-const Recipes = () => {
+const Recipes = ({addRecipeToQueue}) => {
   const [recipes, setRecipes] = useState([]);
 
   useEffect(() => {
@@ -17,7 +17,7 @@ const Recipes = () => {
           <div key={recipe.recipe_id} className="border rounded-2xl p-6">
             <img
               className="w-full h-[200px] object-cover rounded-2xl"
-              //   src={recipe.recipe_image}
+                // src={recipe.recipe_image}
               alt={`recipe image of ${recipe.recipe_name}`}
             />
 
@@ -54,12 +54,14 @@ const Recipes = () => {
                 </span>
                 <span> 
                 <i className="fa-solid fa-fire-flame-curved mr-2"></i>
-                <span>{recipe.calories}</span>
+                <span>{recipe.calories} calories</span>
                 </span>
               </div>
             </div>
 
-            <button className="btn rounded-[50px] bg-[#0BE58A] border-none font-lexend">
+            <button 
+            onClick={ ()=> addRecipeToQueue(recipe)}
+             className="btn rounded-full bg-[#0BE58A] border-none font-lexend">
               Want to Cook
             </button>
           </div>
