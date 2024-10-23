@@ -5,9 +5,9 @@
     "recipe_image": "https://i.ibb.co.com/MRfPSyx/veg-curry.jpg",
     "short_description": "A quick and flavorful chicken stir fry with vegetables.",
     "ingredients": [
-      "550 g chicken",
-      "120 ml soy sauce",
-      "400 g mushroom",
+      "550g chicken",
+      "120ml soy sauce",
+      "400g mushroom",
       "1 bell pepper",
       "2 cloves garlic"
     ],
@@ -20,8 +20,8 @@
     "recipe_image": "https://i.ibb.co.com/6wmnprp/stir-fry-chicken-sweet-peppers-green-beans.jpg",
     "short_description": "A hearty and aromatic vegetable curry.",
     "ingredients": [
-      "300 g mixed vegetables",
-      "200 ml coconut milk",
+      "300g mixed vegetables",
+      "200ml coconut milk",
       "2 tbsp curry powder",
       "1 onion",
       "2 cloves garlic",
@@ -36,12 +36,12 @@
     "recipe_image": "https://i.ibb.co.com/z69rkYC/spaghetti-with-bolognese-sauce-wooden-tablexa.jpg",
     "short_description": "Classic spaghetti with a rich meat sauce.",
     "ingredients": [
-      "400 g spaghetti",
-      "500 g ground beef",
+      "400g spaghetti",
+      "500g ground beef",
       "1 can diced tomatoes",
       "1 onion",
       "2 cloves garlic",
-      "50 g parmesan cheese"
+      "50g parmesan cheese"
     ],
     "preparing_time": 50,
     "calories": 600
@@ -52,11 +52,11 @@
     "recipe_image": "https://i.ibb.co.com/DQsYCFr/greek-salad.jpg",
     "short_description": "A fresh and healthy Greek salad with feta cheese.",
     "ingredients": [
-      "200 g cucumber",
-      "150 g cherry tomatoes",
-      "100 g feta cheese",
+      "200g cucumber",
+      "150g cherry tomatoes",
+      "100g feta cheese",
       "1 red onion",
-      "100 g olives",
+      "100g olives",
       "2 tbsp olive oil"
     ],
     "preparing_time": 15,
@@ -68,11 +68,11 @@
     "recipe_image": "https://i.ibb.co.com/zhLq9G7/chocolate-dessert-with-fresh-raspbery-leaf-generated-by-artificial-intellingence.jpg",
     "short_description": "A rich and moist chocolate cake for dessert.",
     "ingredients": [
-      "200 g flour & sugar",
-      "50 g cocoa powder",
+      "200g flour & sugar",
+      "50g cocoa powder",
       "2 eggs",
-      "100 g butter",
-      "200 ml milk"
+      "100g butter",
+      "200ml milk"
     ],
     "preparing_time": 60,
     "calories": 450
@@ -83,11 +83,11 @@
     "recipe_image": "https://i.ibb.co.com/3dpnLDZ/banana-bread.jpg",
     "short_description": "A delicious banana bread that's perfect for breakfast.",
     "ingredients": [
-      "300 g ripe bananas",
-      "200 g flour",
-      "100 g sugar",
+      "300g ripe bananas",
+      "200g flour",
+      "100g sugar",
       "2 eggs",
-      "50 g butter",
+      "50g butter",
       "1 tsp baking soda"
     ],
     "preparing_time": 50,

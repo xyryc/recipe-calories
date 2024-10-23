@@ -26,16 +26,20 @@ const App = () => {
     <div className="container mx-auto px-4">
       {/* Header section */}
       <Header />
+
       {/* Banner section */}
       <Banner />
+
       {/* Our Recipes section */}
       <OurRecipes />
+
       {/* Recipe Card section */}
       <section className="flex flex-col md:flex-row gap-6 pb-24">
         {/* Card section */}
         <Recipes addRecipeToQueue={addRecipeToQueue} />
+
         {/* Sidebar section */}
-        <Sidebar />
+        <Sidebar recipeQueue={recipeQueue} />
       </section>
     </div>
   );
