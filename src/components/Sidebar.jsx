@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 const Sidebar = ({ recipeQueue, handleRemove, preparedRecipe, calculateTimeAndCalories, totalTime, totalCalories }) => {
   return (
-    <div className="w-1/3 mt-12 border rounded-2xl font-fira-sans text-gray-600">
+    <div className="md:w-1/3 mt-12 border rounded-2xl font-fira-sans text-gray-600">
       {/* want to cook table */}
       <h2 className="font-lexend text-[#282828] text-center mt-8 font-semibold text-2xl">
         Want to cook: {recipeQueue.length}{" "}
@@ -79,8 +79,8 @@ const Sidebar = ({ recipeQueue, handleRemove, preparedRecipe, calculateTimeAndCa
             <tr className="border-none font-lexend font-medium">
               <th></th>
               <td></td>
-              <td>Total Time = {totalTime} minutes</td>
-              <td>Total Calories = {totalCalories} calories</td>
+              <td>Total = {totalTime} minutes</td>
+              <td>Total = {totalCalories} calories</td>
             </tr>
           </tbody>
         </table>

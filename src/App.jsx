@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import OurRecipes from "./components/OurRecipes";
 import Recipes from "./components/Recipes";
 import Sidebar from "./components/Sidebar";
+import Footer from "./components/Footer";
 
 const App = () => {
   const [recipeQueue, setRecipeQueue] = useState([]);
@@ -69,6 +70,8 @@ const App = () => {
           totalCalories={totalCalories}
         />
       </section>
+
+      <Footer/>
     </div>
   );
 };
