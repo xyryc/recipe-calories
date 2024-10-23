@@ -1,5 +1,5 @@
 # Live Preview
-Link: [Recipe Calories](rc-recipe-calories.surge.sh)
+Link: [Recipe Calories](https://rc-recipe-calories.surge.sh)
 
 # React + Vite
 
