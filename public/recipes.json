@@ -2,7 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Chicken Stir Fry",
-    "recipe_image": "https://i.ibb.co.com/MRfPSyx/veg-curry.jpg",
+    "recipe_image": "https://i.ibb.co.com/xhL2QdD/stir-fry-chicken-sweet-peppers-green-beans.jpg",
     "short_description": "A quick and flavorful chicken stir fry with vegetables.",
     "ingredients": [
       "550g chicken",
@@ -17,7 +17,7 @@
   {
     "recipe_id": 2,
     "recipe_name": "Vegetable Curry",
-    "recipe_image": "https://i.ibb.co.com/6wmnprp/stir-fry-chicken-sweet-peppers-green-beans.jpg",
+    "recipe_image": "https://i.ibb.co.com/j3d4SYz/veg-curry.jpg",
     "short_description": "A hearty and aromatic vegetable curry.",
     "ingredients": [
       "300g mixed vegetables",
@@ -33,7 +33,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Spaghetti Bolognese",
-    "recipe_image": "https://i.ibb.co.com/z69rkYC/spaghetti-with-bolognese-sauce-wooden-tablexa.jpg",
+    "recipe_image": "https://i.ibb.co.com/VvDvPD2/spaghetti-with-bolognese-sauce-wooden-tablexa.jpg",
     "short_description": "Classic spaghetti with a rich meat sauce.",
     "ingredients": [
       "400g spaghetti",
@@ -49,7 +49,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Greek Salad",
-    "recipe_image": "https://i.ibb.co.com/DQsYCFr/greek-salad.jpg",
+    "recipe_image": "https://i.ibb.co.com/nRRfSsM/greek-salad.jpg",
     "short_description": "A fresh and healthy Greek salad with feta cheese.",
     "ingredients": [
       "200g cucumber",
@@ -65,7 +65,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Chocolate Cake",
-    "recipe_image": "https://i.ibb.co.com/zhLq9G7/chocolate-dessert-with-fresh-raspbery-leaf-generated-by-artificial-intellingence.jpg",
+    "recipe_image": "https://i.ibb.co.com/XZYq9dC/chocolate-dessert-with-fresh-raspberry-mint-leaf-generated-by-artificial-intellingence.jpg",
     "short_description": "A rich and moist chocolate cake for dessert.",
     "ingredients": [
       "200g flour & sugar",
@@ -80,7 +80,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Banana Bread",
-    "recipe_image": "https://i.ibb.co.com/3dpnLDZ/banana-bread.jpg",
+    "recipe_image": "https://i.ibb.co.com/31NNRqw/banana-bread.jpg",
     "short_description": "A delicious banana bread that's perfect for breakfast.",
     "ingredients": [
       "300g ripe bananas",
